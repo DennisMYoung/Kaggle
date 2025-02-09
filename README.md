@@ -1,0 +1,1 @@
+This a repository for my Kaggle submission as part of the MS-DS program at the University of Colorado Boulder.  The notebook named 'NLP_Disaster_Tweets.ipynb' is a text classification program to identify diaster related tweets.
